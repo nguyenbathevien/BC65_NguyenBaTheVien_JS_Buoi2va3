@@ -1,0 +1,19 @@
+#result,#DTB,#tien,#dtcv,#sumks{
+    margin-top: 20px;
+    width: 50%;
+    height: 40px;
+    border: 1px solid gray;
+    padding: 10px;
+    line-height: 1;
+}
+.form-group{
+    width: 50%;
+}
+.a{
+    border-radius: 50px;
+    display: block;
+}
+.form-group{
+    display: inline-block;
+    width: 30%;
+}
